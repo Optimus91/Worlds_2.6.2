@@ -74,3 +74,4 @@ local.properties
 .idea\workspace.xml
 local.properties
 .idea\misc.xml
+.gradle/3.3/taskArtifacts/taskArtifacts.lock
