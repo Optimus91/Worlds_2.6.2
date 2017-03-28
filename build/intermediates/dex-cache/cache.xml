@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\376b43c8313af090cbf6db89aa9e88dbf61995c8\output\jars\libs\d2xx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19d12079ae2fe9e2638af957127cdf7d5772b21f">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\d2xx_401afb9acf67bed82eb0839e4e6b837c6165fe0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\a453d825e39d9fcecd989896af4cbb92a4a74533\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="570af40926df6da6583541643ab6e29379f6592a">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_794db162b46a133f98265233ec52f7f4050ed932\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5cd97f881c87b097a21cdfb24ce869176dce673">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3d46d8f2647dcef1b0f00d505ed25c8809672f3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\376b43c8313af090cbf6db89aa9e88dbf61995c8\output\jars\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc906452915bfeaccaf5b15b482a091a41c38643">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_14448c6f95fc14283567fb48c7c643faf4e80652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\376b43c8313af090cbf6db89aa9e88dbf61995c8\output\jars\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe1faea782b8a46a7540b228384378bd41bfc9e6">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\Vuforia_4ecc9db312a8fedfde995aab84d857209ca9dc15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\376b43c8313af090cbf6db89aa9e88dbf61995c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acc80693304804c095a55c4c18833280483f8989">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3e281023b66558c509ebec711316d0e4531a6a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ba3197f05743874f347f0cad42ab6f3127cd6f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\54899487bb65dd119650c04b775159079be5baf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc69d0b535ddb1e587c3efce5634d8c6bcf8c43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\b80d37e996d5c24c54229aa441654904a1339643\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cbe1ae4f0bb84900ea2b649188552f1bf7c69a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\a796fca31aa05be2b7415da7782a1593130dba84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="793266999e8614c9386a3b5c0dda79f6d40ef29d">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05c584f9c9a3393d773ebe0dbd369c732637cf1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\376b43c8313af090cbf6db89aa9e88dbf61995c8\output\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="754b74908e45e98119eaca37955bffe0ec04e738">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_566581723a50aa334f084860351afed02a6d08c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\96be903cffe948d270f7b7f13e8bf2e6aa41f073\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72a10d2e9a24839b4ed93897d9e1f0d7ba06ff7c">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27ec673fe2199acf162c9fb13ef802ca3364e3b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\optim\.android\build-cache\6f5eb65b61747fc5230d3eca10259180c57167f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc1f468db4fe00126f613aa4b73c2cc53938f7f0">
+        <dex dex="D:\Github\Post-SuperRegionals\TeamCode\build\intermediates\transforms\dex\debug\folders\1000\10\classes_495f81deed87afcc4b27c1431ce18da6a4a75331\classes.dex" />
+    </item>
+
+</items>

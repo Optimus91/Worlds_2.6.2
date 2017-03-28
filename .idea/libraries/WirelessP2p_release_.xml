@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WirelessP2p-release-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b783f3c4c16c49bc7c8200d7667a10068a14032e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b783f3c4c16c49bc7c8200d7667a10068a14032e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

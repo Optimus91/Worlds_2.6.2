@@ -60,18 +60,4 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk
-.gradle/3.3/taskArtifacts/fileHashes.bin
-.gradle/3.3/taskArtifacts/taskArtifacts.bin
-build/android-profile/profile-2017-03-27-20-33-09-338.rawproto
-build/android-profile/profile-2017-03-27-20-33-19-108.rawproto
 local.properties
-*.xml
-local.properties
-build/android-profile/profile-2017-03-27-20-42-26-070.rawproto
-*.rawproto
-local.properties
-.idea\workspace.xml
-local.properties
-.idea\misc.xml
-.gradle/3.3/taskArtifacts/taskArtifacts.lock
