@@ -4,6 +4,10 @@
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
     }

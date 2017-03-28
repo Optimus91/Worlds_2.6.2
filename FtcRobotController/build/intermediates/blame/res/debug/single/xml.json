@@ -4,6 +4,22 @@
         "source": "C:\\Users\\optim\\.android\\build-cache\\96be903cffe948d270f7b7f13e8bf2e6aa41f073\\output\\res\\xml\\k9legacybot.xml"
     },
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\xml\\k9usbbot.xml"
+    },
+    {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
     },
@@ -30,6 +46,18 @@
     {
         "merged": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
         "source": "C:\\Users\\optim\\.android\\build-cache\\96be903cffe948d270f7b7f13e8bf2e6aa41f073\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\xml\\squarebot.xml"
     },
     {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },

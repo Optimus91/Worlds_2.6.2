@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
         "merged": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
         "source": "C:\\Users\\optim\\.android\\build-cache\\a796fca31aa05be2b7415da7782a1593130dba84\\output\\res\\menu\\menu_server.xml"
     },
@@ -18,6 +22,14 @@
     {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\src\\main\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\cb13a87fdc6d4192874d2cb20fcd005bb4f3cffc\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\6766cc594110646ca35045d529797352ef65d277\\output\\res\\menu\\menu_server.xml"
     },
     {
         "merged": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",

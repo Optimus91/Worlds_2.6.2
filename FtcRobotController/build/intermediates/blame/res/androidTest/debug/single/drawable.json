@@ -4,6 +4,10 @@
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable\\button_shape.xml"
     },
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button_shape.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\drawable\\button_shape.xml"
+    },
+    {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon_menu.png",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\exploded-aar\\Inspection-release\\res\\drawable\\icon_menu.png"
     },
@@ -24,11 +28,23 @@
         "source": "C:\\Users\\optim\\.android\\build-cache\\a796fca31aa05be2b7415da7782a1593130dba84\\output\\res\\drawable\\black_border.xml"
     },
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_border.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\6766cc594110646ca35045d529797352ef65d277\\output\\res\\drawable\\black_border.xml"
+    },
+    {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_border.xml",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\exploded-aar\\Blocks-release\\res\\drawable\\black_border.xml"
     },
     {
         "merged": "D:\\Github\\Post-SuperRegionals\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon_robotcontroller.png",
         "source": "C:\\Users\\optim\\.android\\build-cache\\a453d825e39d9fcecd989896af4cbb92a4a74533\\output\\res\\drawable\\icon_robotcontroller.png"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon_menu.png",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\cb13a87fdc6d4192874d2cb20fcd005bb4f3cffc\\output\\res\\drawable\\icon_menu.png"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\icon_robotcontroller.png",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\cb13a87fdc6d4192874d2cb20fcd005bb4f3cffc\\output\\res\\drawable\\icon_robotcontroller.png"
     }
 ]

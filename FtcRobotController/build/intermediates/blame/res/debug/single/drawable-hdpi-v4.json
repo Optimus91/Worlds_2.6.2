@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Github\\Worlds_2.6.2\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
+        "source": "C:\\Users\\optim\\.android\\build-cache\\d936edcc00cf44bcf5b981fb3a93a8d196396511\\output\\res\\drawable-hdpi-v4\\button_shape.xml"
+    },
+    {
         "merged": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_shape.xml",
         "source": "C:\\Users\\clar\\Desktop\\ftc_app_2_62\\FtcRobotController\\build\\intermediates\\exploded-aar\\FtcCommon-release\\res\\drawable-hdpi-v4\\button_shape.xml"
     },
